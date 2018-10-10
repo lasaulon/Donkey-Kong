@@ -1,0 +1,16 @@
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\bin\Release\DK.exe.config
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\bin\Release\DK.exe
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\bin\Release\DK.pdb
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Release\DK.csprojResolveAssemblyReference.cache
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Release\DK.ChooseLevel.resources
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Release\DK.Controls.resources
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Release\DK.EnterName.resources
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Release\DK.highScore.resources
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Release\DK.Level1.resources
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Release\DK.Level2.resources
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Release\DK.Level3.resources
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Release\DK.MainMenuForm.resources
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Release\DK.Properties.Resources.resources
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Release\DK.csproj.GenerateResource.Cache
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Release\DK.exe
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Release\DK.pdb

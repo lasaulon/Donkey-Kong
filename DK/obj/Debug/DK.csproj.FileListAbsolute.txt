@@ -1,0 +1,100 @@
+C:\Users\Wave\Documents\Visual Studio 2015\Projects\DK\DK\bin\Debug\DK.exe.config
+C:\Users\Wave\Documents\Visual Studio 2015\Projects\DK\DK\obj\Debug\DK.csprojResolveAssemblyReference.cache
+C:\Users\Wave\Documents\Visual Studio 2015\Projects\DK\DK\obj\Debug\DK.Form1.resources
+C:\Users\Wave\Documents\Visual Studio 2015\Projects\DK\DK\obj\Debug\DK.Properties.Resources.resources
+C:\Users\Wave\Documents\Visual Studio 2015\Projects\DK\DK\obj\Debug\DK.csproj.GenerateResource.Cache
+C:\Users\Wave\Documents\Visual Studio 2015\Projects\DK\DK\bin\Debug\DK.exe
+C:\Users\Wave\Documents\Visual Studio 2015\Projects\DK\DK\bin\Debug\DK.pdb
+C:\Users\Wave\Documents\Visual Studio 2015\Projects\DK\DK\obj\Debug\DK.exe
+C:\Users\Wave\Documents\Visual Studio 2015\Projects\DK\DK\obj\Debug\DK.pdb
+C:\Users\Wave\Desktop\DK\DK\bin\Debug\DK.exe.config
+C:\Users\Wave\Desktop\DK\DK\obj\Debug\DK.exe
+C:\Users\Wave\Desktop\DK\DK\obj\Debug\DK.pdb
+C:\Users\Wave\Desktop\DK\DK\bin\Debug\DK.exe
+C:\Users\Wave\Desktop\DK\DK\bin\Debug\DK.pdb
+C:\Users\Wave\Desktop\DK\DK\obj\Debug\DK.csprojResolveAssemblyReference.cache
+C:\Users\Wave\Desktop\DK\DK\obj\Debug\DK.Properties.Resources.resources
+C:\Users\Wave\Desktop\DK\DK\obj\Debug\DK.csproj.GenerateResource.Cache
+C:\Users\Wave\Desktop\DK\DK\obj\Debug\DK.Level1.resources
+C:\Users\Wave\Desktop\DK\DK\obj\Debug\DK.Level2.resources
+C:\Users\Wave\Desktop\DK\DK\obj\Debug\DK.MainMenuForm.resources
+C:\Users\Wave\Desktop\DK\DK\obj\Debug\DK.ChooseLevel.resources
+C:\Users\Wave\Desktop\DK\DK\obj\Debug\DK.EnterName.resources
+C:\Users\Wave\Desktop\DK\DK\obj\Debug\DK.highScore.resources
+C:\Users\adzworld\Downloads\DK\DK\bin\Debug\DK.exe.config
+C:\Users\adzworld\Downloads\DK\DK\obj\Debug\DK.exe
+C:\Users\adzworld\Downloads\DK\DK\obj\Debug\DK.pdb
+C:\Users\adzworld\Downloads\DK\DK\bin\Debug\DK.exe
+C:\Users\adzworld\Downloads\DK\DK\bin\Debug\DK.pdb
+C:\Users\adzworld\Downloads\DK\DK\obj\Debug\DK.ChooseLevel.resources
+C:\Users\adzworld\Downloads\DK\DK\obj\Debug\DK.EnterName.resources
+C:\Users\adzworld\Downloads\DK\DK\obj\Debug\DK.highScore.resources
+C:\Users\adzworld\Downloads\DK\DK\obj\Debug\DK.Level1.resources
+C:\Users\adzworld\Downloads\DK\DK\obj\Debug\DK.Level2.resources
+C:\Users\adzworld\Downloads\DK\DK\obj\Debug\DK.MainMenuForm.resources
+C:\Users\adzworld\Downloads\DK\DK\obj\Debug\DK.Properties.Resources.resources
+C:\Users\adzworld\Downloads\DK\DK\obj\Debug\DK.csproj.GenerateResource.Cache
+C:\Users\Wave\Downloads\DK\DK\bin\Debug\DK.exe.config
+C:\Users\Wave\Downloads\DK\DK\obj\Debug\DK.exe
+C:\Users\Wave\Downloads\DK\DK\obj\Debug\DK.pdb
+C:\Users\Wave\Downloads\DK\DK\bin\Debug\DK.exe
+C:\Users\Wave\Downloads\DK\DK\bin\Debug\DK.pdb
+C:\Users\Wave\Downloads\DK\DK\obj\Debug\DK.csprojResolveAssemblyReference.cache
+C:\Users\Wave\Downloads\DK\DK\obj\Debug\DK.ChooseLevel.resources
+C:\Users\Wave\Downloads\DK\DK\obj\Debug\DK.EnterName.resources
+C:\Users\Wave\Downloads\DK\DK\obj\Debug\DK.highScore.resources
+C:\Users\Wave\Downloads\DK\DK\obj\Debug\DK.Level1.resources
+C:\Users\Wave\Downloads\DK\DK\obj\Debug\DK.Level2.resources
+C:\Users\Wave\Downloads\DK\DK\obj\Debug\DK.MainMenuForm.resources
+C:\Users\Wave\Downloads\DK\DK\obj\Debug\DK.Properties.Resources.resources
+C:\Users\Wave\Downloads\DK\DK\obj\Debug\DK.csproj.GenerateResource.Cache
+C:\Users\tospc\Desktop\DK\DK\bin\Debug\DK.exe.config
+C:\Users\tospc\Desktop\DK\DK\obj\Debug\DK.exe
+C:\Users\tospc\Desktop\DK\DK\obj\Debug\DK.pdb
+C:\Users\tospc\Desktop\DK\DK\bin\Debug\DK.exe
+C:\Users\tospc\Desktop\DK\DK\bin\Debug\DK.pdb
+C:\Users\tospc\Desktop\DK\DK\obj\Debug\DK.csprojResolveAssemblyReference.cache
+C:\Users\tospc\Desktop\DK\DK\obj\Debug\DK.ChooseLevel.resources
+C:\Users\tospc\Desktop\DK\DK\obj\Debug\DK.EnterName.resources
+C:\Users\tospc\Desktop\DK\DK\obj\Debug\DK.highScore.resources
+C:\Users\tospc\Desktop\DK\DK\obj\Debug\DK.Level1.resources
+C:\Users\tospc\Desktop\DK\DK\obj\Debug\DK.Level2.resources
+C:\Users\tospc\Desktop\DK\DK\obj\Debug\DK.MainMenuForm.resources
+C:\Users\tospc\Desktop\DK\DK\obj\Debug\DK.Properties.Resources.resources
+C:\Users\tospc\Desktop\DK\DK\obj\Debug\DK.csproj.GenerateResource.Cache
+C:\Users\Wave\Desktop\DK\DK\obj\Debug\DK.Level3.resources
+C:\Users\Wave\Desktop\DK\DK\obj\Debug\DK.Controls.resources
+C:\Users\tospc\Desktop\DK\DK\obj\Debug\DK.Controls.resources
+C:\Users\tospc\Desktop\DK\DK\obj\Debug\DK.Level3.resources
+C:\Users\Wave\Desktop\KEK\DK\DK\bin\Debug\DK.exe.config
+C:\Users\Wave\Desktop\KEK\DK\DK\obj\Debug\DK.exe
+C:\Users\Wave\Desktop\KEK\DK\DK\obj\Debug\DK.pdb
+C:\Users\Wave\Desktop\KEK\DK\DK\bin\Debug\DK.exe
+C:\Users\Wave\Desktop\KEK\DK\DK\bin\Debug\DK.pdb
+C:\Users\Wave\Desktop\KEK\DK\DK\obj\Debug\DK.csprojResolveAssemblyReference.cache
+C:\Users\Wave\Desktop\KEK\DK\DK\obj\Debug\DK.ChooseLevel.resources
+C:\Users\Wave\Desktop\KEK\DK\DK\obj\Debug\DK.Controls.resources
+C:\Users\Wave\Desktop\KEK\DK\DK\obj\Debug\DK.EnterName.resources
+C:\Users\Wave\Desktop\KEK\DK\DK\obj\Debug\DK.highScore.resources
+C:\Users\Wave\Desktop\KEK\DK\DK\obj\Debug\DK.Level1.resources
+C:\Users\Wave\Desktop\KEK\DK\DK\obj\Debug\DK.Level2.resources
+C:\Users\Wave\Desktop\KEK\DK\DK\obj\Debug\DK.Level3.resources
+C:\Users\Wave\Desktop\KEK\DK\DK\obj\Debug\DK.MainMenuForm.resources
+C:\Users\Wave\Desktop\KEK\DK\DK\obj\Debug\DK.Properties.Resources.resources
+C:\Users\Wave\Desktop\KEK\DK\DK\obj\Debug\DK.csproj.GenerateResource.Cache
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\bin\Debug\DK.exe.config
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Debug\DK.exe
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Debug\DK.pdb
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\bin\Debug\DK.exe
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\bin\Debug\DK.pdb
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Debug\DK.csprojResolveAssemblyReference.cache
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Debug\DK.ChooseLevel.resources
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Debug\DK.Controls.resources
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Debug\DK.EnterName.resources
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Debug\DK.highScore.resources
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Debug\DK.Level1.resources
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Debug\DK.Level2.resources
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Debug\DK.Level3.resources
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Debug\DK.MainMenuForm.resources
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Debug\DK.Properties.Resources.resources
+C:\Users\Wave\Desktop\MCL\IT119P\DK\DK\obj\Debug\DK.csproj.GenerateResource.Cache
